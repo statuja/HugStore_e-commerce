@@ -1,0 +1,21 @@
+.cart {
+    position: absolute;
+    right: 20px;
+    top: 80px;
+    z-index: 999;
+    background-color: white;
+    padding: 20px;
+    -webkit-box-shadow: -10px 9px 22px -6px rgba(0,0,0,0.21);
+    -moz-box-shadow: -10px 9px 22px -6px rgba(0,0,0,0.21);
+    box-shadow: -10px 9px 22px -6px rgba(0,0,0,0.21);
+
+    .item{
+    
+        img{
+            width: 80px;
+            height: 100px;
+            object-fit: cover;        
+        }
+    }
+
+}
