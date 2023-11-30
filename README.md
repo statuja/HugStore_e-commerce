@@ -1,17 +1,18 @@
 # [HugStore](https://hug-store-e-commerce-ii73bnm15-statuja.vercel.app/)
 
 ## Overview
-This e-commerce website, was developed during my training as a web developer at DCI (Digital Career Institute). The project showcases my skills in front-end development, utilizing React with Vite as the build tool. Notably, this project does not currently have a backend and serves as a practice exercise by following tutoring on youtube.
+This e-commerce website, was developed during my training as a web developer at DCI (Digital Career Institute). The project showcases my skills in front-end development, utilizing React with Vite as the build tool. Notably, this project does not currently have a backend and serves as a practice exercise by following tutoring on YouTube.
 
 ## Features
 - React Components: The project is structured with reusable React components, promoting a modular and maintainable codebase.
 - React Router: Navigation is handled seamlessly with React Router, enabling a smooth user experience with different pages.
 - Navbar: The Navbar component offers easy navigation, language selection, and quick access to essential links, such as home, about, contact, and stores. It also includes icons for search, user login, favorites, and the shopping cart.
-- Featured Products: The FeaturedProducts component dynamically renders product cards based on the provided data, allowing easy updates and additions to the showcased items.
 - User Authentication Popup: The SignUpPopup component provides a user-friendly interface for account registration and login, enhancing the overall user experience.
+- Featured Products: The FeaturedProducts component dynamically renders product cards based on the provided data, allowing easy updates and additions to the showcased items.
+
 - Categories: The Categories component provides an organized layout for different product categories, linking to respective pages for more details.
-- Product Listing: The Products component lists products based on selected filters, such as categories, price range, and sorting preferences.
-- Product Display: The Product component displays detailed information about a particular product, including multiple images, pricing, description, and additional details.
+- Product Listing: The products component lists products based on selected filters, such as categories, price range, and sorting preferences.
+- Product Display: The product component displays detailed information about a particular product, including multiple images, pricing, description, and additional details.
 
 
 ## Project Structure
@@ -35,7 +36,6 @@ npm start
 ```
 
 Visit http://localhost:3000 in your browser to view the application.
-
 
 ## Demo
 [Live Demo](https://hug-store-e-commerce-ii73bnm15-statuja.vercel.app/)
