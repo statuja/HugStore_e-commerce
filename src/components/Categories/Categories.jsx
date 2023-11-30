@@ -8,7 +8,7 @@ const Categories = () => {
       <div className="col">
         <div className="row">
           <img
-            src="https://images.pexels.com/photos/818992/pexels-photo-818992.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            src="https://static.massimodutti.net/3/cms/assets/uploads/wNewCode14_6.jpg?impolicy=massimodutti-itxmediumhigh&imwidth=2300&imformat=chrome"
             alt=""
           />
           <button>
@@ -17,7 +17,7 @@ const Categories = () => {
         </div>
         <div className="row">
           <img
-            src="https://images.pexels.com/photos/2036646/pexels-photo-2036646.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            src="https://static.massimodutti.net/3/cms/assets/uploads/wEditDesktopSeasons11_1.jpg?impolicy=massimodutti-itxmediumhigh&imwidth=2300&imformat=chrome"
             alt=""
           />
           <button>
@@ -28,7 +28,7 @@ const Categories = () => {
       <div className="col">
         <div className="row">
           <img
-            src="https://images.pexels.com/photos/1813947/pexels-photo-1813947.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            src="https://static.massimodutti.net/3/cms/assets/uploads/wEditDesktopSulMare21_1.jpg?impolicy=massimodutti-itxmediumhigh&imwidth=2100&imformat=chrome"
             alt=""
           />
           <button>
@@ -41,7 +41,7 @@ const Categories = () => {
           <div className="col">
             <div className="row">
               <img
-                src="https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://images.pexels.com/photos/10679218/pexels-photo-10679218.jpeg?auto=compress&cs=tinysrgb&w=1600"
                 alt=""
               />
               <button>
@@ -52,7 +52,7 @@ const Categories = () => {
           <div className="col">
             <div className="row">
               <img
-                src="https://images.pexels.com/photos/2703202/pexels-photo-2703202.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://static.massimodutti.net/3/cms/assets/uploads/wEditDesktopBlueParadise21_1.jpg?impolicy=massimodutti-itxmediumhigh&imwidth=2300&imformat=chrome"
                 alt=""
               />
               <button>
@@ -63,7 +63,7 @@ const Categories = () => {
         </div>
         <div className="row">
           <img
-            src="https://images.pexels.com/photos/1159670/pexels-photo-1159670.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            src="https://static.massimodutti.net/3/photos//2023/I/1/1/p/1722/150/700/01/1722150700_7_1_16.jpg?t=1685955012503&impolicy=massimodutti-itxmediumhigh&imwidth=1600&imformat=chrome"
             alt=""
           />
           <button>

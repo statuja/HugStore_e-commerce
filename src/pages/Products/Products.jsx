@@ -40,7 +40,7 @@ const Products = () => {
           <h2>Filter by price</h2>
           <div className="inputItem">
             <span>0</span>
-            <input type="range" min={0} max={1000} on onChange={(e)=>setMaxPrice(e.target.value)}/>
+            <input type="range" min={0} max={1000} onChange={(e)=>setMaxPrice(e.target.value)}/>
             <span>{maxPrice}</span>
           </div>
         </div>
@@ -71,7 +71,7 @@ const Products = () => {
       <div className="right">
         <img
           className="catImg"
-          src="https://images.pexels.com/photos/1074535/pexels-photo-1074535.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          src="https://static.massimodutti.net/3/cms/assets/uploads/wEditDesktopRemakeTheWay14_1.jpg?impolicy=massimodutti-itxmediumhigh&imwidth=2300&imformat=chrome"
           alt=""
         />
         <List catId={catId} maxPrice={maxPrice} sort={sort}/>

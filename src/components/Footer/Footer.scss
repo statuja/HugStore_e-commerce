@@ -18,7 +18,13 @@
                 font-weight: 500;
                 color: #555;
             }
-
+            a{
+                text-decoration: none;
+                &:hover{
+                    text-decoration: underline #555;
+                }
+            }
+            
             span{
                 color: gray;
             }
@@ -36,7 +42,7 @@
 
             .logo{
                 font-size: 24px;
-                color: #2879fe;
+                color: #998674;
                 font-weight: bold;
             }
 

@@ -33,10 +33,14 @@
       display: flex;
       flex-direction: column;
       gap: 30px;
+
+      h1{
+        font-size: 26px;
+      }
   
       .price{
         font-size: 30px;
-        color: #2879fe;
+        color: #998674;
         font-weight: 500;
       }
   
@@ -65,7 +69,7 @@
       .add{
         width: 250px;
         padding: 10px;
-        background-color: #2879fe;
+        background-color: #998674;
         color: white;
         display: flex;
         align-items: center;
@@ -84,7 +88,7 @@
           display: flex;
           align-items: center;
           gap: 10px;
-          color: #2879fe;
+          color: #998674;
           font-size: 14px;
         }
       }
@@ -96,6 +100,10 @@
         color: gray;
         font-size: 14px;
         margin-top: 30px;
+
+        .hide{
+          display: none;
+        }
   
         hr{
           width: 200px;

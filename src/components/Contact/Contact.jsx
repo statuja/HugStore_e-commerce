@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import "./Contact.scss";
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
@@ -16,11 +17,11 @@ const Contact = () => {
                 <button>JOIN US</button>
             </div>
             <div className="icons">
-                <FacebookIcon/>
-                <InstagramIcon/>
-                <TwitterIcon/>
-                <GoogleIcon/>
-                <PinterestIcon/>
+              <Link className='link'><FacebookIcon/></Link>
+              <Link className='link'><InstagramIcon/></Link>
+              <Link className='link'><TwitterIcon/></Link>
+              <Link className='link'><GoogleIcon/></Link>
+              <Link className='link'><PinterestIcon/></Link>
             </div>
         </div>
     </div>
