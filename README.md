@@ -20,7 +20,7 @@ This e-commerce website, was developed during my training as a web developer at 
 - Components: Reusable components like Navbar, Footer, Card, and SignUpPopup enhance code modularity and maintainability.
 - Styling: SCSS is employed for styling, providing a clean and structured approach to design.
 
-## Getting Started
+## Getting Started 
 1. Clone the repository: 
 ```
 https://github.com/statuja/hugStore_e-commerce.git
