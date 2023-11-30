@@ -21,19 +21,18 @@ This e-commerce website, was developed during my training as a web developer at 
 
 ## Getting Started
 1. Clone the repository: 
-''' 
+```
 https://github.com/statuja/hugStore_e-commerce.git
-'''
+```
 2. Navigate to the project directory
 3. Install dependencies:
-
-''' 
+```
 npm install
-'''
+```
 4. Run the development server:
-'''
+```
 npm start
-'''
+```
 
 Visit http://localhost:3000 in your browser to view the application.
 
