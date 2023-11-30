@@ -1,7 +1,7 @@
 # [HugStore](https://hug-store-e-commerce-ii73bnm15-statuja.vercel.app/)
 
 ## Demo
-# [Live Demo](https://hug-store-e-commerce-ii73bnm15-statuja.vercel.app/)
+[Live Demo](https://hug-store-e-commerce-ii73bnm15-statuja.vercel.app/)
 
 
 ![feautured](/public/screenshots/Screenshot.png)
