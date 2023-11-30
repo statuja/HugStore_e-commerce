@@ -46,7 +46,7 @@ Visit http://localhost:3000 in your browser to view the application.
 
 ![products](/public/screenshots/Screenshot-3.png)
 
-![product+cart](/public/screenshots/Screenshot-4.png)
+![product cart](/public/screenshots/Screenshot-4.png)
 
 ![login](/public/screenshots/Screenshot-6.png)
 
