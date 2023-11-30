@@ -35,7 +35,6 @@ npm install
 npm start
 ```
 
-Visit http://localhost:3000 in your browser to view the application.
 
 ## Demo
 [Live Demo](https://hug-store-e-commerce-ii73bnm15-statuja.vercel.app/)
