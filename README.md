@@ -8,10 +8,8 @@ This e-commerce website, was developed during my training as a web developer at 
 - React Router: Navigation is handled seamlessly with React Router, enabling a smooth user experience with different pages.
 - Navbar: The Navbar component offers easy navigation, language selection, and quick access to essential links, such as home, about, contact, and stores. It also includes icons for search, user login, favorites, and the shopping cart.
 - User Authentication Popup: The SignUpPopup component provides a user-friendly interface for account registration and login, enhancing the overall user experience.
-- Featured Products: The FeaturedProducts component dynamically renders product cards based on the provided data, allowing easy updates and additions to the showcased items.
-
 - Categories: The Categories component provides an organized layout for different product categories, linking to respective pages for more details.
-- Product Listing: The products component lists products based on selected filters, such as categories, price range, and sorting preferences.
+- Product Listing: The product component lists products based on selected filters, such as categories, price range, and sorting preferences.
 - Product Display: The product component displays detailed information about a particular product, including multiple images, pricing, description, and additional details.
 
 
